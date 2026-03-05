@@ -122,7 +122,7 @@ nav ul li {
   flex-basis: 25%;
   padding: 10px;
   min-width: 200px;
-  margin-bottom: 50px;
+  margin-bottom: 10px;
   transition: transform 0.5s;
 }
 .col-4 img {
