@@ -24,7 +24,6 @@ p {
 .navbar {
   display: flex;
   align-items: center;
-  padding: 10px;
   justify-content: center;
 }
 nav {
